@@ -13,6 +13,8 @@ const add = require("./utils.js");
 yargs.version("1.1.0");
 console.log(yargs.argv);
 
+debugger;
+
 yargs.command({
   command: "add",
   describe: "Add a new note",
