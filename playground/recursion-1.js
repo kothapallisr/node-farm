@@ -1,8 +1,8 @@
 function countdown(fromNumber) {
-  let num = fromNumber - 1;
+  let nextNum = fromNumber - 1;
   console.log(fromNumber);
-  if (num > 0) {
-    countdown(num);
+  if (nextNum > 0) {
+    countdown(nextNum);
   }
 }
 
