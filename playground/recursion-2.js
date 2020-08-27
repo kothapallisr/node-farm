@@ -1,8 +1,11 @@
-function sumOfDigits(num) {
-  if (num === 0) {
-    return 0;
+// factorial .. 5 -> 5 * 4 * 3 * 2 * 1
+
+function factorial(num) {
+
+  if(num == 1){
+    return 1;
   }
-  return (num % 10) + sumOfDigits(Math.floor(num / 10));
+  return num * factorial(num -1);
 }
 
-console.log(sumOfDigits(1324234234));
+console.log(factorial(7));
