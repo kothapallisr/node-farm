@@ -4,4 +4,4 @@ const reducer = function (acc, cur) {
   return acc + cur;
 };
 
-console.log(arr.reduce(reducer, 6));
+console.log(arr.reduce(reducer, 0));
