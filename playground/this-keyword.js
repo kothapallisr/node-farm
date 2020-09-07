@@ -1,3 +1,4 @@
+// this keyword
 this.table = "window table";
 
 this.garage = {
