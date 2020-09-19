@@ -20,7 +20,7 @@ a {
   font-family: "Raleway";
 }
 .navbar {
-  background: #f97300;
+  background: #7ea5ba;
 }
 .nav-link,
 .navbar-brand {
@@ -64,7 +64,7 @@ a {
   padding: 2em;
 }
 .description h1 {
-  color: #f97300;
+  color: #6bd3ff;
 }
 .description p {
   color: #666;
@@ -83,7 +83,7 @@ a {
   position: relative;
 }
 .about h1 {
-  color: #f97300;
+  color: #6bd3ff;
   margin: 2em;
 }
 .about img {
@@ -115,7 +115,7 @@ a {
   position: relative;
 }
 .portfolio h1 {
-  color: #f97300;
+  color: #6bd3ff;
   margin: 2em;
 }
 .portfolio img {
@@ -131,7 +131,7 @@ a {
   position: relative;
 }
 .blog h1 {
-  color: #f97300;
+  color: #6bd3ff;
   margin: 2em;
 }
 .blog .card {
@@ -157,7 +157,7 @@ a {
   position: relative;
 }
 .team h1 {
-  color: #f97300;
+  color: #6bd3ff;
   margin: 2em;
 }
 .team .item {
@@ -190,7 +190,7 @@ a {
 
 .contact-form h1 {
   padding: 2em 1px;
-  color: #f97300;
+  color: #6bd3ff;
 }
 .contact-form .right {
   max-width: 600px;
