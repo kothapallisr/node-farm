@@ -86,9 +86,10 @@ a {
   position: relative;
 }
 .about h1 {
-  color: #6bd3ff;
+  color: #10828c;
   margin: 2em;
 }
+
 .about img {
   height: 100%;
   width: 100%;
@@ -101,7 +102,8 @@ a {
   left: 115px;
 }
 .about .desc {
-  padding: 2em;
+  padding: 1em;
+  margin-bottom: 1em;
   border-left: 4px solid #10828c;
 }
 .about .desc h3 {
@@ -109,7 +111,7 @@ a {
 }
 .about .desc p {
   line-height: 2;
-  color: #888;
+  color: #cfcfcf;
 }
 
 /*Portfolio*/
@@ -118,7 +120,7 @@ a {
   position: relative;
 }
 .portfolio h1 {
-  color: #6bd3ff;
+  color: #10828c;
   margin: 2em;
 }
 .portfolio img {
@@ -134,7 +136,7 @@ a {
   position: relative;
 }
 .blog h1 {
-  color: #6bd3ff;
+  color: #10828c;
   margin: 2em;
 }
 .blog .card {
@@ -160,7 +162,7 @@ a {
   position: relative;
 }
 .team h1 {
-  color: #6bd3ff;
+  color: #10828c;
   margin: 2em;
 }
 .team .item {
@@ -186,6 +188,17 @@ a {
   top: 0;
   border-top-right-radius: 0;
 }
+
+.process h1 {
+  color: #10828c;
+  margin: 2em;
+}
+
+.specialization h1 {
+  color: #10828c;
+  margin: 2em;
+}
+
 .contact-form {
   margin: 6em 0;
   position: relative;
@@ -193,7 +206,7 @@ a {
 
 .contact-form h1 {
   padding: 2em 1px;
-  color: #6bd3ff;
+  color: #10828c;
 }
 .contact-form .right {
   max-width: 600px;
